@@ -1,5 +1,5 @@
 <script src="https://ideone.com/e.js/QoJf8w" type="text/javascript"></script>
-<script async="" src="//jsfiddle.net/afabbro/vrVAP/embed/"></script>
+<script style=" height: 600px;width: 100%" async="" src="//jsfiddle.net/afabbro/vrVAP/embed/"></script>
 <br />
 <div class="codepen" data-default-tab="css,result" data-embed-version="2" data-height="265" data-pen-title="Example #2" data-slug-hash="eyaDr" data-theme-id="0" data-user="TrentWalton">
 See the Pen <a href="https://codepen.io/TrentWalton/pen/eyaDr/">Example #2</a> by Trent Walton (<a href="https://codepen.io/TrentWalton">@TrentWalton</a>) on <a href="https://codepen.io/">CodePen</a>.</div>
