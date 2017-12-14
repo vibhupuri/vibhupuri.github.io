@@ -1,3 +1,10 @@
+Angular -> Stackblitz
+AnularDart -> Dartpad
+Node -> ideone
+Jssnippets -> jsfiddle
+FinalResult -> Codepen
+.Net -> dotnetfiddle
+
 <script src="https://ideone.com/e.js/QoJf8w" type="text/javascript"></script>
 <script style=" height: 600px;width: 100%" async="" src="//jsfiddle.net/afabbro/vrVAP/embed/"></script>
 <br />
