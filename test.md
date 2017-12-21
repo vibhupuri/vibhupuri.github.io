@@ -19,14 +19,6 @@ See the Pen <a href="https://codepen.io/TrentWalton/pen/eyaDr/">Example #2</a> b
 <iframe src='https://dartpad.dartlang.org/embed-html.html?id=fb763a4a770b5cdd896982e10ccf4118' style='height:300px;width:100%;' frameborder='0'></iframe>
 
 ```
+<code>A piece of computer code</code>
 
-namespace AdapterPattern
-{
-    public interface IDuck
-    {
-        void Quack();
-        void Fly();
-    }
-
-}
 ```
