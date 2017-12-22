@@ -1,4 +1,4 @@
 ---
 title : js_1
-permalink : /js/1
+permalink : /js_1
 ---
