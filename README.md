@@ -1,5 +1,4 @@
-/*# Pinned Repositories: 
-<!----> 
+<!-- [//] # Pinned Repositories: 
 Hello World,below you can find the links to pages where I have documented my coding experiments and analysis,etc :
  * [Javascript](https://github.com) 
  * [Dart](https://github.com)
@@ -8,3 +7,4 @@ Hello World,below you can find the links to pages where I have documented my cod
  * [Miscellaneous](https://github.com)# Myres:cliher2cmr&wp
 */
 <a href="/Fantastic Frontend/Readme.md"><img src="/js/ff.png"/></a>
+--> 
