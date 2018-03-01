@@ -1,6 +1,6 @@
 # Starring :-
 
-<span>
+
   
   <a href="/Fantastic Frontend/react"><img src="reedrichards.jpg_c200"/></a>
   
@@ -18,6 +18,6 @@
   
   ##  'Bootstrap' Ben Grimm
 
-</span>
+ 
 
 <span><img src="Untitled.png"/><img src="Untitle8.png"/></span>
