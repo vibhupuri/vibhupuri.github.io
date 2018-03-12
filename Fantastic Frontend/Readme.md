@@ -31,7 +31,7 @@ Click on the images below to explore further :-
  <a href="/Fantastic Frontend/bootstrap"><img src="chiklis.jpg_c200"/></a>
   
  
- ##  'Bootstrap' Ben Grimm
+ ##  'Bootstrap' Ben Gridd
 
  
 
