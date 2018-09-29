@@ -19,10 +19,9 @@ I did it again!
 
 ![OOPS](https://raw.githubusercontent.com/vibhupuri/vibhupuri.github.io/master/js/Cpture.PNG)
 
-## Related Finding on Github :
+<!--## Related Finding on Github :
 Blackout : A web application framework built on knockout.js
-
-![BO](https://github.com/vibhupuri/vibhupuri.github.io/blob/master/js/51N5i8HcN7L._SX361_BO1,204,203,200_.jpg?raw=true)
+![BO](https://github.com/vibhupuri/vibhupuri.github.io/blob/master/js/51N5i8HcN7L._SX361_BO1,204,203,200_.jpg?raw=true)-->
 
 ## Front end :
  [![Angular](https://raw.githubusercontent.com/vibhupuri/vibhupuri.github.io/master/js/Potc_skull_color.png)](google.com)
@@ -46,24 +45,17 @@ Blackout : A web application framework built on knockout.js
 
 ![DataBattle](https://raw.githubusercontent.com/vibhupuri/vibhupuri.github.io/master/js/DEATH_BATTLE!.png)
 
-### Mean Stack : 
+<!--### Mean Stack : 
 Turn.js rewrite 
 ![MEAN](https://raw.githubusercontent.com/vibhupuri/vibhupuri.github.io/master/js/maxresdefault.jpg)
-
 ![fetch](https://raw.githubusercontent.com/vibhupuri/vibhupuri.github.io/master/js/stop-trying-to-make-fetch-happen-its-not-going-to-32660757.png)
-
 ![MEAN2](https://raw.githubusercontent.com/vibhupuri/vibhupuri.github.io/master/js/Mean-girls-2-TC-1.jpg)
-
 [![Turn.js](https://raw.githubusercontent.com/vibhupuri/vibhupuri.github.io/master/js/s-l300.jpg)](http://www.turnjs.com/)
-
 ### Sean Stack : 
 SQL instead of Mongo 
-
 ![SEAN](https://raw.githubusercontent.com/vibhupuri/vibhupuri.github.io/master/js/cash-promo-movie-poster-afm-2009-sean-bean.jpg)
-
 ### 'Mystery'MEN Stack (Mongo,Node,Express w/ any Js MVC/non MVC framework)
-
-![MMS](https://raw.githubusercontent.com/vibhupuri/vibhupuri.github.io/master/js/images.jpg)
+![MMS](https://raw.githubusercontent.com/vibhupuri/vibhupuri.github.io/master/js/images.jpg)-->
 
 ### There are so many js f/ws : 
 
@@ -77,9 +69,9 @@ SQL instead of Mongo
 
 ## Angular Projects rel. ideas,etc.
 
-![Angular](https://raw.githubusercontent.com/vibhupuri/vibhupuri.github.io/master/js/my-fave-potc-photos-pirates-of-the-caribbean-26805136-347-500.jpg)
+<!--![Angular](https://raw.githubusercontent.com/vibhupuri/vibhupuri.github.io/master/js/my-fave-potc-photos-pirates-of-the-caribbean-26805136-347-500.jpg)-->
 
-![rcangular](https://github.com/vibhupuri/vibhupuri.github.io/blob/master/js/arcane.gif?raw=true)
+![arcangular](https://github.com/vibhupuri/vibhupuri.github.io/blob/master/js/arcane.gif?raw=true)
 
 ![gta](https://github.com/vibhupuri/vibhupuri.github.io/blob/master/js/e5958ca2bda4475cc67f78f1b30263b2.png?raw=true)
 
