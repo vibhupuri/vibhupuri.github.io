@@ -1,5 +1,5 @@
  
 ## Angular Projects
  
-![Angular](/js/ure.PNG)
- 
+![ngrocks2](https://github.com/vibhupuri/vibhupuri.github.io/blob/master/js/ure.PNG?raw=true)
+  
