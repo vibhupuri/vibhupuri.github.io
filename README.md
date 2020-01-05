@@ -1,2 +1,0 @@
-# vibhupuri.github.io
-Homepage
