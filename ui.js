@@ -43,15 +43,26 @@ header = function(){
   `
     <div class=logo>
     <h2>C#.JS</h2>
+<<<<<<< HEAD
     <h3>game design <span>&</span> front-end hacking</h3>
+=======
+    <h3>back-end design <span>&</span> front-end hacking</h3>
+>>>>>>> 243f2c860be0757d4768dd78803adfb368a99ee6
     </div>
     <menu>
     <a href="${section == "home" ? "." : "../"}" class="home${section == "home" ? " active" : ""}">🏠</a>
     <a href="${section == "home" ? "" : "../"}articles"${section == "articles" ? ' class="active"' : ""}>Articles</a>
+<<<<<<< HEAD
     <a href="${section == "home" ? "" : "../"}codegolf"${section == "codegolf" ? ' class="active"' : ""}>NPM</a>
     <br class="mobileonly">
     <a href="${section == "home" ? "" : "../"}projects"${section == "projects" ? ' class="active"' : ""}>Nuget</a>
     <a href="${section == "home" ? "" : "../"}techwatch"${section == "techwatch" ? ' class="active"' : ""}>Sandboxes</a>
+=======
+    <a href="${section == "home" ? "" : "../"}npm"${section == "codegolf" ? ' class="active"' : ""}>NPM</a>
+    <br class="mobileonly">
+    <a href="${section == "home" ? "" : "../"}nuget"${section == "projects" ? ' class="active"' : ""}>Nuget</a>
+    <a href="${section == "home" ? "" : "../"}sandboxes"${section == "techwatch" ? ' class="active"' : ""}>Sandboxes</a>
+>>>>>>> 243f2c860be0757d4768dd78803adfb368a99ee6
     </menu>
   `;
 }
